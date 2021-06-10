@@ -1,9 +1,9 @@
 ### Hey there bud! 👋
 
-- 🔭 I’m currently working on a blog search engine
+- 🔭 I’m currently working on a a library, 'pyramid' for WAY easier browser integration and server management with Python
 - 🌱 I’m currently learning... well, everything!
 - 👯 I’m looking to collaborate on cloud dev and web dev on local servers with Python!
-- 🤔 I’m looking for help with Django! (is that asking too much?)
+- 🤔 I’m looking for help with Flask! (is that asking too much?)
 - 💬 Ask me about... myself (?)
 - 📫 How to reach me: On Gmail, it's rsaipranav2003@gmail.com
 - ⚡ Fun fact: I love Tottenham Hotspur FC ⚽
