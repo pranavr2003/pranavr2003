@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a a library, 'sierra' for WAY easier web development with Python. https://github.com/BrainStormYourWayIn/sierra
 - 🌱 I’m currently learning... well, everything!
-- 👯 I’m looking to collaborate on cloud dev and web dev on local servers with Python!
+- 👯 I’m looking to collaborate on cloud dev and web dev with Python!
 - 💬 Ask me about... myself (?)
 - 📫 How to reach me: On Gmail, it's rsaipranav2003@gmail.com
 - ⚡ Fun fact: I love Tottenham Hotspur FC ⚽
