@@ -1,6 +1,6 @@
 ### Hey there bud! 👋
 
-- 🔭 I’m currently working on a a library, [Sierra](https://github.com/BrainStormYourWayIn/sierra) for easier web development with Python using the DOM API. 
+- 🔭 I’m currently working on streamlit.
 - 🌱 I’m currently learning... well, everything!
 - 👯 I’m looking to collaborate on cloud dev and web dev with Python!
 - 💬 Ask me about... myself (?)
