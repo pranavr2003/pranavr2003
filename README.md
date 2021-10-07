@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning... well, everything!
 - 💬 Ask me about... myself (?)
 - 📫 How to reach me: On Gmail, it's rsaipranav2003@gmail.com
-- ⚡ Fun fact: I love Tottenham Hotspur FC ⚽
+- ⚡ Fun fact: I support Tottenham Hotspur FC ⚽
 - ⚡ Another fun fact: I'm a soon-to-be college fresher! (is it a fun fact? advice only, please)
 - ⚡ Yet another fun fact: I placed fourth on Hackbenchers #4 by Hackerrank! You can check out my work [here](https://he-s3.s3.amazonaws.com/media/sprint/hackbenchers-4/team/881231/1cba910submission.zip)
 - ⚡ Yet yet another fun fact: Nothing, I just wanted to use 'Yet yet' 
