@@ -6,7 +6,7 @@
 - 📫 How to reach me: On Gmail, it's rsaipranav2003@gmail.com
 - ⚡ Fun fact: I support Tottenham Hotspur FC ⚽
 - ⚡ Another fun fact: I'm a soon-to-be college fresher! (is it a fun fact? advice only, please)
-- ⚡ Yet another fun fact: I placed fourth on [Hackbenchers #4](https://www.hackerearth.com/challenges/hackathon/hackbenchers-4/custom-tab/winners/#Winners) by Hackerrank! You can check out my work [here](https://he-s3.s3.amazonaws.com/media/sprint/hackbenchers-4/team/881231/1cba910submission.zip)
+- ⚡ Yet another fun fact: I placed fourth on [Hackbenchers #4](https://www.hackerearth.com/challenges/hackathon/hackbenchers-4/custom-tab/winners/#Winners) by *Hackerrank*! You can check out my work [here](https://he-s3.s3.amazonaws.com/media/sprint/hackbenchers-4/team/881231/1cba910submission.zip)
 - ⚡ Yet yet another fun fact: Nothing, I just wanted to use 'Yet yet' 
 
 <!--
