@@ -2,6 +2,7 @@
 
 ### Hey there bud!
 
+- I'm the co-developer of the Sierra Python library, which is pinned
 - 🔭 I’m currently working on selenium-simple.
 - 🌱 I’m currently learning... well, everything!
 - 📫 How to reach me: On Gmail, it's rsaipranav2003@gmail.com
