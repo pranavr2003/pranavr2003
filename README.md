@@ -2,12 +2,11 @@
 
 ### Hey there bud!
 
-- I'm the co-developer of the Sierra Python library, which is pinned
-- 🔭 I’m currently working on selenium-simple.
+- I'm the co-developer of the Sierra Python library, which is pinned.   
 - 🌱 I’m currently learning... well, everything!
 - 📫 How to reach me: On Gmail, it's rsaipranav2003@gmail.com
-- ⚡ Fun fact: I support Tottenham Hotspur FC ⚽
-- ⚡ Another fun fact: I'm a soon-to-be college fresher! (is it a fun fact? advice only, please)
+- ⚡ Fun fact: I love playing and watching football ⚽
+- ⚡ Another fun fact: I love solving CS problems. I enjoy solving bugs. I relish a challenging environment. Yep... and yes, can't resist always learning too!    
 - ⚡ Yet another fun fact: I placed fourth on [Hackbenchers #4](https://www.hackerearth.com/challenges/hackathon/hackbenchers-4/custom-tab/winners/#Winners) by *Hackerrank*! You can check out my work [here](https://he-s3.s3.amazonaws.com/media/sprint/hackbenchers-4/team/881231/1cba910submission.zip)
 
 
