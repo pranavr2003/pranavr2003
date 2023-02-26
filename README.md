@@ -1,4 +1,3 @@
-![Pranav's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=pranavr2003&hide_border=true&theme=redical)
 
 ### Hey there bud!
 
