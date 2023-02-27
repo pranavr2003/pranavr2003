@@ -10,9 +10,9 @@
 
 
  
-![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=pranavr2003&show_icons=true&theme=radical&include_all_commits=true)
+![Pranav's github stats](https://awesome-github-stats.azurewebsites.net/user-stats/pranavr2003?theme=tokyonight&Ring=DD2727&Border=13DD57&Text=DD2727)
+![Pranav's github stats](https://github-readme-streak-stats.herokuapp.com/?user=pranavr2003&theme=dark)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavr2003"></img>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -21,6 +21,8 @@
 
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavr2003"></img>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavr2003&theme=dark"></img>
 
 
 **pranavr2003/pranavr2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
