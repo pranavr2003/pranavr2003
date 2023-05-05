@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning... well, everything!
 - 📫 How to reach me: On Gmail, it's rsaipranav2003@gmail.com
 - ⚡ Fun fact: I love playing and watching football ⚽
-- ⚡ Another fun fact: I love solving CS problems. I enjoy solving bugs. I relish a challenging environment. Yep... and yes, can't resist always learning too!    
+- ⚡ Another fun fact: I love solving CS problems. I enjoy solving bugs. I relish a challenging environment.  
 - ⚡ Yet another fun fact: I placed fourth on [Hackbenchers #4](https://www.hackerearth.com/challenges/hackathon/hackbenchers-4/custom-tab/winners/#Winners) by *Hackerrank*! You can check out my work [here](https://he-s3.s3.amazonaws.com/media/sprint/hackbenchers-4/team/881231/1cba910submission.zip)
 
 
