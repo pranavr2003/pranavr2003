@@ -27,13 +27,13 @@
 
 <br>
 
+<!--
+
 ### Me summed up:
 
 <div align="center">
 <video src="https://github.com/pranavr2003/pranavr2003/assets/56883253/9d313e8a-71b0-4f0d-b349-daf1148e76ca"/>
 <div>
-
-<!--
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavr2003"></img>
