@@ -21,7 +21,7 @@
 
 <p align="center">
 <a href="https://github.com/pranavr2003">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavr2003&size_weight=0&count_weight=0.8&exclude_repo=uni_py&hide=html&layout=compact&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavr2003&size_weight=0&count_weight=0.9&hide=html,css&layout=compact&theme=transparent" />
 </a>
 </p>
 
