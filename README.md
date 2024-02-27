@@ -13,6 +13,14 @@
 
 <p align="center">
 <a href="https://github.com/pranavr2003">
+  <img height=21 align="center" src="https://komarev.com/ghpvc/?username=pranavr2003&base=1618" />
+</a>
+</p>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/pranavr2003">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavr2003&theme=dark" />
 </a>
 </p>
@@ -22,14 +30,6 @@
 <p align="center">
 <a href="https://github.com/pranavr2003">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavr2003&size_weight=0&count_weight=0.9&hide=html,css&layout=compact&theme=transparent" />
-</a>
-</p>
-
-<br>
-
-<p align="center">
-<a href="https://github.com/pranavr2003">
-  <img height=200 align="center" src="https://komarev.com/ghpvc/?username=pranavr2003&base=1618" />
 </a>
 </p>
 
