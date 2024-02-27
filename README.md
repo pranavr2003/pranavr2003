@@ -27,6 +27,14 @@
 
 <br>
 
+<p align="center">
+<a href="https://github.com/pranavr2003">
+  <img height=200 align="center" src="https://komarev.com/ghpvc/?username=pranavr2003&base=1618" />
+</a>
+</p>
+
+<br>
+
 <!--
 
 ### Me summed up:
