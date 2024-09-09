@@ -35,6 +35,10 @@
 
 <br>
 
+<div align="center">
+<video src="https://github.com/pranavr2003/pranavr2003/assets/56883253/9d313e8a-71b0-4f0d-b349-daf1148e76ca"/>
+<div>
+
 <!--
 
 ### Me summed up:
