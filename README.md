@@ -2,6 +2,7 @@
 ### Hey there bud!
 
 - 📫 How to reach me: On Gmail, it's rsaipranav2003@gmail.com
+- ⚡Here's my [resume](https://drive.google.com/file/d/1q7OsVCh5Rvy8RNaMaN-5fRfyFLbzcg3B/view?usp=sharing).
 
 <br>
 
@@ -16,14 +17,6 @@
   <img height=21 align="center" src="https://komarev.com/ghpvc/?username=pranavr2003&base=1618" />
 </a>
 </p>
-
-<br>
-
-<p align="center">
-<a href="https://github.com/pranavr2003">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavr2003&theme=dark" />
-</a>
-</p>
   
 <br>
 
@@ -36,6 +29,15 @@
 <br>
 
 <!--
+
+
+<br>
+
+<p align="center">
+<a href="https://github.com/pranavr2003">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavr2003&theme=dark" />
+</a>
+</p>
 
 <div align="center">
 <video src="https://github.com/pranavr2003/pranavr2003/assets/56883253/9d313e8a-71b0-4f0d-b349-daf1148e76ca"/>
