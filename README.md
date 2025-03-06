@@ -2,7 +2,7 @@
 ### Hey there bud!
 
 - 📫 How to reach me: On Gmail, it's rsaipranav2003@gmail.com
-- ⚡Here's my [resume](https://drive.google.com/file/d/1q7OsVCh5Rvy8RNaMaN-5fRfyFLbzcg3B/view?usp=sharing).
+- ⚡Here's my [resume](https://drive.google.com/file/d/1cFeWGKmgvsqEi1twVha89llsTCrtfuLm/view?usp=sharing).
 
 <br>
 
